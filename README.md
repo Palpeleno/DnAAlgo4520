@@ -1,6 +1,6 @@
 ranking 
     Master/Cheif
-    SgtMaj SergeantMajor
+    SgtMaj :SergeantMajor
     General
     GSgt GunnerySergeant
         Maj Major
