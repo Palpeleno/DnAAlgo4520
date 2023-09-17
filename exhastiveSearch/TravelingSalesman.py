@@ -29,4 +29,4 @@ def travelsalesmen(graph,s) #makes use of a graph to denote the vertices that ar
         min_path=current_pathweight
 
 
-    return min_path, best_i
+    return min_path #best_i
