@@ -1,0 +1,1 @@
+# gcd of two non zero numbers  -> gcd(m,n) = gcd(n,m mod n)
